@@ -9,7 +9,7 @@ We'll explore the purpose of views in a Sinatra application and will render them
 1. Explain the advantage of storing HTML in a separate file from `app.rb`
 2. Create `index.erb` in the views directory
 3. Update your controller to render appropriate erb files
-2. Render multiple routes with multiple views
+4. Render multiple routes with multiple views
 
 
 ### Part 1: Rendering HTML
